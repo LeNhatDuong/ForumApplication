@@ -26,35 +26,18 @@
       <excludeFolder url="file://$MODULE_DIR$/public/system" />
       <excludeFolder url="file://$MODULE_DIR$/components" />
     </content>
-    <orderEntry type="jdk" jdkName="RVM: ruby-3.1.2 [forum_application]" jdkType="RUBY_SDK" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-3.1.2 [blog_application]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.4, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.18, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.10, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="digest (v3.1.0, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="erubi (v1.10.0, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="io-console (v0.5.11, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="irb (v1.4.1, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="marcel (v1.0.2, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="matrix (v0.4.2, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mini_mime (v1.1.2, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.16.2, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="msgpack (v1.5.3, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="net-imap (v0.2.3, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="net-pop (v0.1.1, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="net-smtp (v0.3.1, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="nio4r (v2.5.8, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="public_suffix (v4.0.7, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="racc (v1.6.0, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.4, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v2.5.0, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.5, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="strscan (v3.0.3, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="timeout (v0.3.0, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, RVM: ruby-3.1.2 [forum_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="digest (v3.1.0, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="io-console (v0.5.11, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="irb (v1.4.1, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="matrix (v0.4.2, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-imap (v0.2.3, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-pop (v0.1.1, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-smtp (v0.3.1, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="racc (v1.6.0, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v13.0.6, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rexml (v3.2.5, RVM: ruby-3.1.2 [blog_application]) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
